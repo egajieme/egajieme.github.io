@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://egajieme.github.io/sitemap_index.egajieme
